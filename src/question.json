@@ -1,0 +1,133 @@
+﻿{
+    "questions": [
+         {
+          "question": "What does HTML stand for ?",
+          "choiceA": "Hyper Text Markup Language",
+          "choiceB": "High-Level Text Manipulation Language",
+          "choiceC": "Hyperlink and Text Management Language",
+          "choiceD": "Home Tool Management Language",
+          "correct": "A"
+      },
+      {
+          "question": "Which programming language is known for its use in machine learning and data analysis ?",
+          "choiceA": "Java",
+          "choiceB": "C++",
+          "choiceC": "Ruby",
+          "choiceD": "Python",
+          "correct": "D"
+      },
+      {
+          "question": "What does SQL stand for ?",
+          "choiceA": "System Query Language",
+          "choiceB": "Sequential Query Language",
+          "choiceC": "Structured Query Language",
+          "choiceD": "Secure Query Language",
+          "correct": "C"
+      },
+      {
+          "question": "in object-oriented programming, what is encapsulation?",
+          "choiceA": "The process of hiding the implementation details of an object",
+          "choiceB": "The process of converting code to machine language",
+          "choiceC": "The process of optimizing code for speed",
+          "choiceD": "The process of sharing code across different objects",
+          "correct": "A"
+      },
+      {
+          "question": "Which data structure operates on a 'last-in, first-out' principle?",
+          "choiceA": "Queue",
+          "choiceB": "Linked List",
+          "choiceC": "Stack",
+          "choiceD": "Hash Table",
+          "correct": "C"
+      }
+	  ,
+      {
+           "question":"What is the purpose of version control systems like Git?",
+		  	"choiceA": "To compile code into machine language",
+			"choiceB": "To optimize code for speed",
+			"choiceC": "To automatically fix bugs in code",
+			"choiceD": "To manage and track changes to source code over time",
+            "correct": "D"
+      }
+	  ,
+      {
+			"question":" Which programming paradigm focuses on writing code as a series of mathematical functions?",
+			"choiceA": "Imperative",
+			"choiceB": "Object-Oriented",
+			"choiceC": "Functional",
+			"choiceD": "Procedural",
+			"correct": "C"
+      }
+	  ,
+      {
+			"question":"Which programming language is commonly used for building web applications and dynamic websites?",
+			"choiceA": "Pascal",
+			"choiceB": "Fortran",
+			"choiceC": "JavaScript",
+			"choiceD": "C#",
+			"correct": "C"
+      }
+	  ,
+      {
+			"question":"What is the primary purpose of a constructor in object-oriented programming?",
+			"choiceA": "To destroy objects after they're no longer needed",
+			"choiceB": "To provide a way to access private class members",
+			"choiceC": "To create and initialize objects of a class",
+			"choiceD": "To optimize code execution",
+			"correct": "C"
+      }
+	  ,
+      {
+			"question":"Which sorting algorithm has an average and worst-case time complexity of O(n log n)?",
+			"choiceA": "Quick Sort",
+			"choiceB": "Bubble Sort",
+			"choiceC": "Insertion Sort",
+			"choiceD": "Selection Sort",
+			"correct": "A"
+      },
+      {
+			"question":"How far is the moon from Earth?",
+			"choiceA": "7,918 miles (12,742 km)",
+			"choiceB": "86,881 miles (139,822 km)",
+			"choiceC": "238,400 miles (384,400 km)",
+			"choiceD": "35,980,000 miles (57,910,000 km)",
+			"correct": "C"
+      }
+	  ,
+      {
+			"question":"What is 65 times 52?",
+			"choiceA": "117",
+			"choiceB": "3120",
+			"choiceC": "3380",
+			"choiceD": "3520",
+			"correct": "C"
+      }
+	  ,
+      {
+			"question":"How tall is Mount Everest?",
+			"choiceA": "6,683 ft (2,037 m)",
+			"choiceB": "7,918 ft (2,413 m)",
+			"choiceC": "19,341 ft (5,895 m)",
+			"choiceD": "29,029 ft (8,847 m)",
+			"correct": "D"
+      }
+	  ,
+      {
+			"question":"When did The Avengers come out?",
+			"choiceA": "May 2, 2008",
+			"choiceB": "May 4, 2012",
+			"choiceC": "May 3, 2013",
+			"choiceD": "April 4, 2014",
+			"correct": "B"
+      }
+	  	  ,
+      {
+			"question":"What is 48,879 in hexidecimal?",
+			"choiceA": "0x18C1",
+			"choiceB": "0xBEEF",
+			"choiceC": "0xDEAD",
+			"choiceD": "0x12D591",
+			"correct": "B"
+      }
+    ]
+}

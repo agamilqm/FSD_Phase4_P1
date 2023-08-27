@@ -1,0 +1,44 @@
+﻿{
+    "questions": [
+      {
+          "question": "What does HTML stand for ?",
+          "choiceA": "Hyper Text Markup Language",
+          "choiceB": "High-Level Text Manipulation Language",
+          "choiceC": "Hyperlink and Text Management Language",
+          "choiceD": "Home Tool Management Language",
+          "correct": "A"
+      },
+      {
+          "question": "Which programming language is known for its use in machine learning and data analysis ?",
+          "choiceA": "Java",
+          "choiceB": "C++",
+          "choiceC": "Ruby",
+          "choiceD": "Python",
+          "correct": "D"
+      },
+      {
+          "question": "What does SQL stand for ?",
+          "choiceA": "System Query Language",
+          "choiceB": "Sequential Query Language",
+          "choiceC": "Structured Query Language",
+          "choiceD": "Secure Query Language",
+          "correct": "C"
+      },
+      {
+          "question": "in object-oriented programming, what is encapsulation?",
+          "choiceA": "The process of hiding the implementation details of an object",
+          "choiceB": "The process of converting code to machine language",
+          "choiceC": "The process of optimizing code for speed",
+          "choiceD": "The process of sharing code across different objects",
+          "correct": "A"
+      },
+      {
+          "question": "Which data structure operates on a 'last-in, first-out' principle?",
+          "choiceA": "Queue",
+          "choiceB": "Linked List",
+          "choiceC": "Stack",
+          "choiceD": "Hash Table",
+          "correct": "C"
+      }
+    ]
+}
